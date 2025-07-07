@@ -38,7 +38,7 @@ This project presents a detailed data analysis of Indian Premier League (IPL) ma
 - Seaborn
 - Jupyter Notebook
 
-## ✍ Author
+##  Author
 
 **Varshith Reddy (Chintu)**  
 Aspiring Data Analyst 
