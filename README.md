@@ -42,4 +42,4 @@ This project presents a detailed data analysis of Indian Premier League (IPL) ma
 
 **Varshith Reddy (Chintu)**  
 Aspiring Data Analyst 
-GitHub: [your_username_here]
+GitHub: [varshith0312]
