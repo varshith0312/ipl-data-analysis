@@ -1,6 +1,7 @@
 #  In-Depth Analysis of IPL Matches
 
 This project presents a detailed data analysis of Indian Premier League (IPL) matches using Python and popular data analysis libraries.
+![Project Thumbnail](Zomato_Data_Analysis.png)
 
 ##  Files in this Repository
 - `IPL Data Analysis.ipynb` — Main Jupyter Notebook with complete analysis
