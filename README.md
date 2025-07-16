@@ -1,6 +1,7 @@
 #  In-Depth Analysis of IPL Matches
 
 This project presents a detailed data analysis of Indian Premier League (IPL) matches using Python and popular data analysis libraries.
+
 ![Project Thumbnail](IPL Data Analysis .ipynb)
 
 ##  Files in this Repository
