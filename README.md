@@ -2,7 +2,7 @@
 
 This project presents a detailed data analysis of Indian Premier League (IPL) matches using Python and popular data analysis libraries.
 
-![Project Thumbnail](IPL Data Analysis .ipynb)
+![Project Thumbnail](IPL-Data-Analysis.jpeg)
 
 ##  Files in this Repository
 - `IPL Data Analysis.ipynb` — Main Jupyter Notebook with complete analysis
